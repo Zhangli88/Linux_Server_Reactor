@@ -15,3 +15,7 @@
 ## 线程安全log系统 /spirit_log
 * 线程锁
 * pthread_key
+
+## 连接池conn_pool
+* 连接池及队列
+* 使用回调方式
