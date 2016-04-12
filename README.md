@@ -1,6 +1,8 @@
 # Linux Server Framework
 ## 主要模块 /communicate
 
+![](http://i.imgur.com/wxPUaml.jpg)
+
 这份代码框架包括（没有具体业务实现）
 
 * reactor模式
